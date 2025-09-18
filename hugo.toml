@@ -1,0 +1,7 @@
+baseURL = "https://alugarov.github.io/gardengauge/privacy"
+languageCode = "en-us"
+title = "GardenGauge Privacy Policy"
+theme = "PaperMod"
+# Ensure canonical links work when served from /app-privacy/
+canonifyURLs = true
+unsafe = true
