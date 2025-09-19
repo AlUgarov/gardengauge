@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Privacy Policy on GardenGauge Privacy Policy</title>
+    <link>http://localhost:1313/gardengauge/</link>
+    <description>Recent content in Privacy Policy on GardenGauge Privacy Policy</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/gardengauge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/gardengauge/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gardengauge/privacy/</guid>
+      <description>&lt;h2 id=&#34;data-we-collect&#34;&gt;Data We Collect&lt;/h2&gt;
+&lt;h3 id=&#34;location-data&#34;&gt;Location Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What&lt;/strong&gt;: GPS coordinates of your garden locations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why&lt;/strong&gt;: To fetch accurate weather and soil data for your specific locations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How&lt;/strong&gt;: Only when you grant location permission and add new garden zones&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage&lt;/strong&gt;: We only use the GPS coordinates you provide when creating garden zones. We do not continuously track your location in the background.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;weather-and-soil-data&#34;&gt;Weather and Soil Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What&lt;/strong&gt;: Rainfall, temperature, soil composition data from third-party APIs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why&lt;/strong&gt;: To provide moisture calculations and garden recommendations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Open-Meteo API, NOAA/NCEI, USDA Web Soil Survey, SoilGrids&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage&lt;/strong&gt;: Cached locally on your device for app functionality. This cached data is automatically refreshed or deleted as needed for the app to function.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;anonymous-usage-analytics&#34;&gt;Anonymous Usage Analytics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What&lt;/strong&gt;: App usage patterns, feature usage, crash reports&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why&lt;/strong&gt;: To improve app performance and user experience&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How&lt;/strong&gt;: Via TelemetryDeck with anonymous, stable identifiers. These identifiers are random and cannot be linked to your identity, device, or Apple account.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No Personal Data&lt;/strong&gt;: We cannot identify you from this data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-we-do-not-collect&#34;&gt;Data We Do NOT Collect&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Names, email addresses, or other personally identifiable information&lt;/li&gt;
+&lt;li&gt;Any data that can be used to identify you personally&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;no-tracking&#34;&gt;No Tracking&lt;/h2&gt;
+&lt;p&gt;We do not track you across other apps or websites, and we do not use your data for advertising.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

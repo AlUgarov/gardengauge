@@ -1,9 +1,3 @@
-+++
-title = "Privacy Policy"
-draft = false
-slug = "privacy"
-date = 2025-09-18
-+++
 ## Data We Collect
 
 ### Location Data
