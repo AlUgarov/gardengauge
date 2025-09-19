@@ -26,10 +26,11 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
-        run: hugo --minify
-        echo "------ built files ------"
-        find public -type f | sort
+      - name: Build and list output
+        run: |
+          hugo --minify
+          echo "------ built files ------"
+          find public -type f | sort
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -43,3 +44,4 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+
