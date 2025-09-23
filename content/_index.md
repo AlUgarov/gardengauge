@@ -1,61 +1,65 @@
-+++
-title = "Privacy Policy"
-draft = false
-slug = "privacy"
-date = 2025-09-18
-+++
-## Data We Collect
 
-### Location Data
-- **What**: GPS coordinates of your garden locations
-- **Why**: To fetch accurate weather and soil data for your specific locations
-- **How**: Only when you grant location permission and add new garden zones
-- **Storage**: We only use the GPS coordinates you provide when creating garden zones. We do not continuously track your location in the background.
+## Thanks for trying Garden Gauge!
 
-### Weather and Soil Data
-- **What**: Rainfall, temperature, soil composition data from third-party APIs
-- **Why**: To provide moisture calculations and garden recommendations
-- **Sources**: Open-Meteo API, NOAA/NCEI, USDA Web Soil Survey, SoilGrids
-- **Storage**: Cached locally on your device for app functionality. This cached data is automatically refreshed or deleted as needed for the app to function.
+## App
+Garden Gauge is an app to track moisture in soil and make smart watering decisions. It uses hyperlocal weather data to calculate total water loss due evaporation and transpiration. Then it creates watering recommendations based on soil type, and shade conditions. It is available in App Store for iPhone and iPad.
 
-### Anonymous Usage Analytics
-- **What**: App usage patterns, feature usage, crash reports
-- **Why**: To improve app performance and user experience
-- **How**: Via TelemetryDeck with anonymous, stable identifiers. These identifiers are random and cannot be linked to your identity, device, or Apple account.
-- **No Personal Data**: We cannot identify you from this data
+### Support
+If you have questions or feedback, please use the form below:
 
-## Data We Do NOT Collect
-- Names, email addresses, or other personally identifiable information
-- Any data that can be used to identify you personally
+<div class="feedback-card">
+    <form
+      action="https://formspree.io/f/xvgwpndj"
+      method="POST">
+      <label>
+        Your email:
+        <input type="email" name="email">
+      </label>
+      <label>
+        Message:
+        <textarea name="message"></textarea>
+      </label>
+      <!-- your other form fields go here -->
+      <button type="submit">Send</button>
+    </form>
+</div>
 
-## No Tracking
-We do not track you across other apps or websites, and we do not use your data for advertising.
-
-## Data Sharing
-- **Location Data**: Shared only with weather/soil APIs to fetch relevant data
-- **Analytics**: Anonymous usage data shared with TelemetryDeck
-- **No Sale**: We do not sell any data to third parties
-
-## Data Storage
-- All your garden data stays on your device
-- No cloud storage or backup of your personal garden information
-- You control your data completely
-
-## Your Rights
-- You can delete all app data by deleting the app
-- You can revoke location permissions at any time in iOS Settings
-- Contact us at help@thirsttracker.app for questions
-
-## Third-Party Services
-- **Open-Meteo**: Weather data
-- **NOAA/NCEI**: US weather observations
-- **USDA Web Soil Survey**: US soil data
-- **SoilGrids**: Global soil data
-- **TelemetryDeck**: Anonymous analytics ([Privacy Policy](https://telemetrydeck.com/privacy))
-
-## Children's Privacy
-We do not knowingly collect personal information from children under 13. If you believe a child has provided us with data, please contact us and we will delete it.
+<style>
+  .feedback-card {
+    max-width: 560px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: #f9f9f9;
+    border-radius: 8px;
+  }
+  .feedback-card label {
+    display: block;
+    font-weight: 600;
+    margin: 0.5rem 0 0.2rem;
+  }
+  .feedback-card input[type="email"],
+  .feedback-card textarea {
+    width: 100%;
+    padding: 0.6rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+  .feedback-card button {
+    background: #333;
+    color: #fff;
+    padding: 0.6rem 1.2rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  .feedback-card button:hover {
+    background: #555;
+  }
+</style>
 
 ---
 
-*Last updated: 2025-01-16*
+*Last updated: 2025-09-22*

@@ -38,7 +38,7 @@ We do not track you across other apps or websites, and we do not use your data f
 ## Your Rights
 - You can delete all app data by deleting the app
 - You can revoke location permissions at any time in iOS Settings
-- Contact us at help@thirsttracker.app for questions
+- Contact us at support@nonverbose.ai for questions
 
 ## Third-Party Services
 - **Open-Meteo**: Weather data
@@ -52,4 +52,4 @@ We do not knowingly collect personal information from children under 13. If you 
 
 ---
 
-*Last updated: 2025-01-16*
+*Last updated: 2025-09-22*
