@@ -4,6 +4,8 @@
 ## App
 Garden Gauge is an app to track moisture in soil and make smart watering decisions. It uses hyperlocal weather data to calculate total water loss due evaporation and transpiration. Then it creates watering recommendations based on soil type, and shade conditions. It is available in App Store for iPhone and iPad.
 
+Our privacy policy is [here](/privacy/).
+
 ### Support
 If you have questions or feedback, please use the form below:
 

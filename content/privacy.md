@@ -4,19 +4,21 @@
 - **What**: GPS coordinates of your garden locations
 - **Why**: To fetch accurate weather and soil data for your specific locations
 - **How**: Only when you grant location permission and add new garden zones
-- **Storage**: We only use the GPS coordinates you provide when creating garden zones. We do not continuously track your location in the background.
+- **Storage**: We only use the GPS coordinates you provide when creating garden zones. We do not continuously track your location in the background
 
 ### Weather and Soil Data
 - **What**: Rainfall, temperature, soil composition data from third-party APIs
 - **Why**: To provide moisture calculations and garden recommendations
 - **Sources**: Open-Meteo API, NOAA/NCEI, USDA Web Soil Survey, SoilGrids
-- **Storage**: Cached locally on your device for app functionality. This cached data is automatically refreshed or deleted as needed for the app to function.
+- **Storage**: Cached locally on your device for app functionality. This cached data is automatically refreshed or deleted as needed for the app to function
 
 ### Anonymous Usage Analytics
 - **What**: App usage patterns, feature usage, crash reports
 - **Why**: To improve app performance and user experience
-- **How**: Via TelemetryDeck with anonymous, stable identifiers. These identifiers are random and cannot be linked to your identity, device, or Apple account.
+- **How**: Via TelemetryDeck with anonymous, stable identifiers. These identifiers are random and cannot be linked to your identity, device, or Apple account
 - **No Personal Data**: We cannot identify you from this data
+
+---
 
 ## Data We Do NOT Collect
 - Names, email addresses, or other personally identifiable information
@@ -41,14 +43,18 @@ We do not track you across other apps or websites, and we do not use your data f
 - Contact us at support@nonverbose.ai for questions
 
 ## Third-Party Services
-- **Open-Meteo**: Weather data
-- **NOAA/NCEI**: US weather observations
-- **USDA Web Soil Survey**: US soil data
-- **SoilGrids**: Global soil data
-- **TelemetryDeck**: Anonymous analytics ([Privacy Policy](https://telemetrydeck.com/privacy))
+We send the coordinats you provide to fetch relevant weather and soil information. These services do not receive any other personal data: 
+- **Open-Meteo**: provides weather data ([Privacy Policy](https://open-meteo.com/en/terms))
+- **NOAA/NCEI**: provides US weather data
+- **USDA Web Soil Survey**: provides US soil data
+- **SoilGrids**: provides global soil data ([Privacy Policy](https://www.isric.org/about/data-policy)).
 
+We also plan to use analytics service to improve app performance. The data we share is anonymous and cannot be linked to you or your device:
+- **TelemetryDeck**: anonymous analytics ([Privacy Policy](https://telemetrydeck.com/privacy))
+
+---
 ## Children's Privacy
-We do not knowingly collect personal information from children under 13. If you believe a child has provided us with data, please contact us and we will delete it.
+We do not knowingly collect personal information from children under 13. If we discover such data has been provided, we will promptly delete it.
 
 ---
 
